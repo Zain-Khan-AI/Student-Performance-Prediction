@@ -53,6 +53,7 @@ Study hours have a strong positive impact on performance
 Previous scores are highly correlated with final performance
 Sleep hours also influence results moderately
 Practice papers improve prediction score accuracy
+
 📈 Model Evaluation
 Evaluation metrics used:
 Mean Absolute Error (MAE)
